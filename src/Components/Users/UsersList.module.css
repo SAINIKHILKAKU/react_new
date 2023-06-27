@@ -1,0 +1,62 @@
+.users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.users ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.users li {
+  border: 1px solid #fcf8f8;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
+.users {
+  list-style: none;
+  padding: 0;
+}
+
+.users li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.users span {
+  margin-right: 1rem;
+}
+
+.users button {
+  padding: 0.5rem 1rem;
+}
+.users {
+  list-style: none;
+  padding: 0;
+}
+
+.users li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.users span {
+  margin-right: 1rem;
+}
+
+.users button {
+  padding: 0.5rem 0.5rem;
+  background-color: #455dac; /* Set your desired background color */
+  color: #ffffff; /* Set your desired text color */
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 1rem;
+  /* display: flex; */
+  /* flex-direction: column; */
+}
